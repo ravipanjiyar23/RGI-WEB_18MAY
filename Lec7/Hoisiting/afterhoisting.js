@@ -5,11 +5,11 @@ function helloworld(){
 }
 
 
-console.log(x);
+console.log(x); // undefined 
 
 x = 10;
 
-console.log(x); // hoisting
+console.log(x); // 10    // hoisting
 
 
 helloworld ();

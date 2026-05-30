@@ -15,12 +15,12 @@ a.pop();
 console.log(a);
 
 
-// unsihft
+// unsihft -> it is adding the element at the begining of an array 
 
 a.unshift(0);
 console.log(a);
 
-// shift
+// shift -> removing the element from the begining of an array 
 
 a.shift();
 console.log(a);

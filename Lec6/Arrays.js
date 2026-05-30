@@ -22,3 +22,7 @@ console.log(b);
 for(var e of b){
     console.log(e);
 }
+
+// e =1
+// e=2
+// e=3..

@@ -9,7 +9,7 @@ a();
 // return type using arrow function 
 
 
-let sum = (a,b)=> a+b; // sinle line return type 
+let sum = (a,b)=> a+b; // single line return type 
 
 console.log(sum(10,20));
 

@@ -9,16 +9,13 @@ let add = function (num){
     
 }
 
-console.log(add());
+console.log(add()); // 0
 
 
-
-
-
-console.log(add(1)());
+console.log(add(1)()); // 1
 
 
 console.log(add(1)(2)()); // 3
 
 
-console.log(add(1)(2)(3)());
+console.log(add(1)(2)(3)()); //6

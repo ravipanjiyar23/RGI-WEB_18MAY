@@ -17,3 +17,11 @@ while(i<=30){
     i++;
 }
 
+
+
+// print all no from 1 to 100
+
+// print all even no between 1 to 100
+
+// print all odd no from 1 to 100 
+

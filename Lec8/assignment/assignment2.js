@@ -10,7 +10,7 @@ let students = [
   {name: "Priya", marks: 90}
 ];
 
-Return an array containing only student names using map().
+Return an array containing only student names using map() or forEach().
 
 Expected Output:
 
