@@ -1,0 +1,57 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calcultor{
+        height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.screen{
+    height: 85px;
+    background-color: #000000;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.keys{
+    height: 315px;
+}
+
+.keypads{
+        display: flex;
+    /* gap: 25px; */
+    height: 100%;
+    font-size: 40px;
+    color: white;
+    background-color: #000000;
+    flex-wrap: wrap;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 14px;
+}
+
+.digits{
+    width: 33%;
+    height: 20%;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.output{
+    margin: 0;
+    position: relative;
+    top: 40px;
+    left: 290px;
+    font-size: 35px;
+}
