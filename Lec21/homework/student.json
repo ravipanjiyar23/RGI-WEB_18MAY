@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "first_name": "xyz",
+        "last_name": "zyx",
+        "email": "xyz@twitter.com",
+        "gender": "Female",
+        "course_name": "BCA",
+        "sem": "4"
+    }
+]
